@@ -101,6 +101,4 @@ Checks cover preprocessing, folds, statistics, recorded-result consistency and a
 
 ## Credits
 
-Maintained by **Miguel Ruiz** as a personal portfolio edition of a collaborative project with **Antonio Gutiérrez, Arnau Martínez and Lucas King**. The report preserves its original authorship and academic context. This edition adds organisation, documentation and validation; it does not claim sole authorship of the shared implementation.
-
-[AUTHORS.md](AUTHORS.md) records provenance; [NOTICE.md](NOTICE.md) explains code and dataset licensing.
+Maintained by **Miguel Ruiz** as a personal portfolio edition of a collaborative project.
