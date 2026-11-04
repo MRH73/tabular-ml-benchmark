@@ -1,0 +1,3 @@
+dataset,model,metric,test,statistic,p_value,p_chi2_reference,alpha,significant,folds,configurations,permutations,seed
+pen-based,all,accuracy,Friedman permutation,91.50335807705903,0.0001,8.455678711189947e-15,0.05,True,10,12,9999,42
+pen-based,all,time_ms_per_instance,Friedman permutation,101.15384615384619,0.0001,1.0549712066504206e-16,0.05,True,10,12,9999,42

@@ -1,0 +1,11 @@
+# Keep the recorded datasets and measurements byte-for-byte on every platform.
+*.arff -text whitespace=cr-at-eol
+*.csv -text whitespace=cr-at-eol
+*.pdf binary
+*.png binary
+
+# Use consistent line endings for code and documentation.
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf

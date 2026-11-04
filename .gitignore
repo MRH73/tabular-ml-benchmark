@@ -1,0 +1,30 @@
+# Local runs and incomplete checkpoints
+/runs/
+*.partial.csv
+*.csv.tmp
+*.log
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+# Credentials and local tools
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+.vscode/
+.DS_Store
+# Personal drafts and temporary exports
+BORRADOR*
+/tmp/
+*.zip

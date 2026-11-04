@@ -1,0 +1,3 @@
+dataset,model,metric,test,statistic,p_value,p_chi2_reference,alpha,significant,folds,configurations,permutations,seed
+wine,rf,accuracy,Friedman permutation,54.98113207547275,0.222,0.19804163631332933,0.05,False,10,48,9999,42
+wine,rf,time_ms_per_instance,Friedman permutation,357.10408163265333,0.0001,2.814310353214293e-49,0.05,True,10,48,9999,42
